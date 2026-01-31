@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Administrador de Datos Usuarios</title>
+    <style>
+        body { font-family: sans-serif; display: flex; flex-direction: column; gap: 10px; width: 300px; padding: 20px; }
+        button { padding: 10px; cursor: pointer; background: #007bff; color: white; border: none; border-radius: 4px; }
+        button:hover { background: #0056b3; }
+    </style>
+</head>
+<body>
+    <h3>Panel de Control de Usuarios</h3>
+    <button onclick="manager.listarNombres()">Listar Nombres</button>
+    <button onclick="manager.infoBasica()">Información Básica</button>
+    <button onclick="manager.infoDireccion()">Dirección</button>
+    <button onclick="manager.infoAvanzada()">Información Avanzada</button>
+    <button onclick="manager.listarCompanias()">Listar Compañías</button>
+    <button onclick="manager.listarOrdenados()">Listar Ordenados Alfabéticamente</button>
+
+    <script src="./asset/app.js"></script>
+</body>
+</html>

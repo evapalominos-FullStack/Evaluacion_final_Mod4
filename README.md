@@ -1,4 +1,5 @@
-Evaluación Final Mod 4 4
+Evaluación Final Mod 4 
+
 Se crean archivos para mostrar información en HTML, JS 
 Mediante el objeto XMLHttpRequest() accedemos a la url https://jsonplaceholder.typicode.com/users 
 Mediante una class constructor se pide la data mediante XMLHttpRequest para su posterior uso. 
@@ -10,3 +11,5 @@ Mediante una class constructor se pide la data mediante XMLHttpRequest para su p
 -	Listar todas las compañías junto a su frase clase (catchphrase) 
 -	Listar los nombres de todos los usuarios ordenados alfabéticamente. 
 Todo estructurado en un index.html mediante botónes debidamente etiquetados para llamar a cada método.
+_____________________________________________________________
+DESARROLLO DE APLICACIONES FULL STACK JAVASCRIPT TRAINEE V2.0 
